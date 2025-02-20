@@ -70,14 +70,6 @@ I love solving **complex problems**, writing **efficient code**, and **optimizin
 🔹 Engineered **cron-based task scheduling** for real-time data synchronization.  
 🔹 Integrated **third-party APIs** for data aggregation & analytics.  
 
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mx-gp&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mx-gp&theme=dark" width="48%"/>
-</p>
 
 ---
 
